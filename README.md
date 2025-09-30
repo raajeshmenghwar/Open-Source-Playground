@@ -129,3 +129,12 @@ Feel free to open an issue if you have any questions or need help getting starte
 
 
 *Remember: Every expert was once a beginner. Your first contribution matters!*
+
+
+# Dev Emojis and Their Purpose
+
+- 📚 **Documentation** → For docs and guides  
+- ✨ **Feature** → For new features  
+- 🐛 **Bug Fix** → For fixing bugs  
+- 🎨 **Style** → For code formatting  
+- ♻️ **Refactor** → For restructuring code  
